@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/snoogans775/processing-playground#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.22.0",
     "nedb": "^1.8.0",
     "nodemon": "^2.0.3"
